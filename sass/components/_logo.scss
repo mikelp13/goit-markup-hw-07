@@ -8,5 +8,9 @@
 
   &__item {
     color: $accent-color;
+
+    &--inverse {
+      color: $primary-white-color;
+    }
   }
 }
